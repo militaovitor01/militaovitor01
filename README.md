@@ -5,21 +5,12 @@
 - ☕ Learning and Studing Java, Python an Back-End languages
 - ⚡ I’m looking for my first oportunitty in the technology area
 
-
 <hr>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=militaovitor01&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=militaovitor01&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 
- 
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=militaovitor01" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=militaovitor01" height="150" alt="languages graph"  />
+</div>
 
 ### Some interesting links:
 <hr>
