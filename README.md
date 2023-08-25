@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently studing Computer Science at PUC Minas
 - ☕ Learning and Studing Java, Python an Back-End languages
-- ⚡ I’m looking for my first oportunitty in the technology area
+- ⚡ Looking for my first oportunitty in the technology area #OpenToWork
 
 <hr>
 
