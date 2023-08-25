@@ -1,7 +1,7 @@
 ### Hi there, i'm Vitor Militão, a Software Developer from Brazil!👋
 <hr>
 
-- 👨‍💻 I’m currently studing Computer Science in PUC Minas
+- 👨‍💻 I’m currently studing Computer Science at PUC Minas
 - ☕ Learning and Studing Java, Python an Back-End languages
 - ⚡ I’m looking for my first oportunitty in the technology area
 
