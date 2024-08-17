@@ -2,7 +2,7 @@
 <hr>
 
 - 👨‍💻 I’m currently studing Computer Science at PUC Minas
-- ☕ Learning and Studing Java, Python an Back-End languages
+- ☕ Learning and Studing Java, C#, Flutter, and some other interesting things
 - ⚡ Looking for my first oportunitty in the technology area #OpenToWork
 
 <hr>
