@@ -2,7 +2,7 @@
 <hr>
 
 - 👨‍💻 I’m currently studying Computer Science at PUC Minas
-- ☕ Learning and Studying Java, C#, Flutter, and some other interesting things
+- ☕ Learning and Studying React, Node, Java, Flutter, and some other interesting things
 - ⚡ Looking for my first opportunity in the technology area #OpenToWork
 
 <hr>
